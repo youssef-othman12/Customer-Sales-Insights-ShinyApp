@@ -17,7 +17,7 @@ An interactive Shiny web application for analyzing customer sales data using dat
   - Clustering based on customer `age` and `total` spending.
 - **Market Basket Analysis**:
   - Association rule mining using the Apriori algorithm.
-  - Customizable support and confidence thresholds.
+  - Customizable support and confidence thresholds..
 
 ---
 
